@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    color: aqua;
+    font-size: 14px;
+}
